@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>DhwaniTestCase</name>
+   <name>SampleTestCase3</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>2c580c28-053c-4c06-bb8d-0a14a5577734</testCaseGuid>
+   <testCaseGuid>7ae2285a-eb16-479a-add3-1eba3ce7577e</testCaseGuid>
 </TestCaseEntity>
